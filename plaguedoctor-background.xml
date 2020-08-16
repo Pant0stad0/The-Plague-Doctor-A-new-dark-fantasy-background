@@ -21,7 +21,7 @@
 		</description>
 		<rules>
 			<grant type="Proficiency" name="Skill Proficiency (Plague Doctor)" id="ID_PROFICIENCY_SKILL_MEDICINE" />
-			<select type="Proficiency" name="Skill Proficiency (Plague Doctor)" supports="ID_PROFICIENCY_SKILL_INVESTIGATION|ID_PROFICIENCY_SKILL_PERCEPTION" number="2" />
+			<grant type="Proficiency" name="Skill Proficiency (Plague Doctor)" id="ID_PROFICIENCY_SKILL_INVESTIGATION" />
 			<grant type="Proficiency" name="Tool Proficiency (Plague Doctor)" id="ID_PROFICIENCY_TOOL_PROFICIENCY_HERBALISM_KIT" />
 			<select type="Language" name="Language (Plague Doctor)" optional="true" />
 			<grant type="Background Feature" id="ID_NV_TGHC_BACKGROUND_FEATURE_RESPECTED_HEALER" />
