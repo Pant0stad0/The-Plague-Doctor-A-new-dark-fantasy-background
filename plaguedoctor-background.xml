@@ -3,7 +3,7 @@
 	<info>
 		<name>Plague Doctor</name>
 		<description>Basic background of Champions, chosen warriors of their tribes</description>
-		<author url="https://www.dmsguild.com/product/171285/The-Plague-Doctor-a-dark-fantasy-background?site=&manufacturers_id=8957#_=_">Pilleri Federico</author>
+		<author url="https://www.dmsguild.com/product/171285/The-Plague-Doctor-a-dark-fantasy-background">Pilleri Federico</author>
 		<update version="0.0.1">
 			<file name="plaguedoctor-background.xml" url="https://github.com/Pant0stad0/The-Plague-Doctor-A-new-dark-fantasy-background/edit/master/plaguedoctor-background.xml" />
 		</update>
