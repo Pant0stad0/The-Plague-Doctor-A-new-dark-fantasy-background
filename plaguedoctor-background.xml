@@ -20,8 +20,10 @@
 			<div element="ID_NV_TGHC_BACKGROUND_FEATURE_RESPECTED_HEALER" />
 		</description>
 		<rules>
-			<select type="Proficiency" name="Skill Proficiency (Plague Doctor)" supports="Skill" number="2" />
-			<select type="Proficiency" name="Tool Proficiency (Plague Doctor)" supports="Tool" number="2" optional="true"/>
+			<grant type="Proficiency" name="Skill Proficiency (Plague Doctor)" id="ID_SKILL_MEDICINE" />
+			<select type="Proficiency" name="Skill Proficiency (Plague Doctor)" supports="ID_SKILL_INVESTIGATION|ID_SKILL_PERCEPTION" number="2" />
+			<grant type="Proficiency" name="Tool Proficiency (Plague Doctor)" id="ID_PROFICIENCY_TOOL_PROFICIENCY_HERBALISM_KIT" />
+			<grant type="Proficiency" name="Tool Proficiency (Plague Doctor)" id="ID_PROFICIENCY_TOOL_PROFICIENCY_POISONERS_KIT" />
 			<grant type="Background Feature" id="ID_NV_TGHC_BACKGROUND_FEATURE_RESPECTED_HEALER" />
 			<select name="Personality Trait" type="List">
 				<item id="1">My profession taught me to be very detached, from patients and companions alike.</item>
