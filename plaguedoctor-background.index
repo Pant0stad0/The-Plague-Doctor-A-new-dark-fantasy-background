@@ -2,11 +2,10 @@
 <index>
   <info>
     <update version="1.0">
-      <file name="sample.index" url="http://hosting.com/files/sample.index" />
+      <file name="plaguedoctor-background.index" url="https://github.com/Pant0stad0/The-Plague-Doctor-A-new-dark-fantasy-background/blob/master/plaguedoctor-background.index" />
     </update>
   </info>
   <files>
-    <file name="source.xml" url="http://hosting.com/files/source.xml" />
-    <file name="items.xml" url="http://hosting.com/files/items.xml" />
+    <file name="plaguedoctor-background.xml" url="https://github.com/Pant0stad0/The-Plague-Doctor-A-new-dark-fantasy-background/blob/master/plaguedoctor-background.xml" />
   </files>
 </index>
