@@ -5,17 +5,17 @@
 		<description>Basic background of Champions, chosen warriors of their tribes</description>
 		<author url="https://www.dmsguild.com/product/171285/The-Plague-Doctor-a-dark-fantasy-background?site=&manufacturers_id=8957#_=_">Pilleri Federico</author>
 		<update version="0.0.1">
-			<file name="plaguedoctor-background.xml" url="https://github.com/Pant0stad0/The-Plague-Doctor-A-new-dark-fantasy-background" />
+			<file name="plaguedoctor-background.xml" url="https://github.com/Pant0stad0/The-Plague-Doctor-A-new-dark-fantasy-background/edit/master/plaguedoctor-background.xml" />
 		</update>
 	</info>
 
-	<element name="Plague Doctor" type="Background" source="DMsGuild" id="ID_NV_TGHC_BACKGROUND_PLAGUEDOCTOR">
+	<element name="Plague Doctor" type="Background" source="The Plague Doctor: A new dark fantasy background" id="ID_NV_TGHC_BACKGROUND_PLAGUEDOCTOR">
 		<description>
 			<p> Plague doctors lead their life in strict contact with death itself; they must come to term with the demise of those they couldn't save.</p>
 			<ul>
 				<li><strong>Skill Proficiencies:</strong> Medicine, plus one from Investigation and Perception</li>
 				<li><strong>Tool Proficiencies:</strong> Healer's Kit, Herbalism Kit</li>
-				<li><strong>Equipment:</strong> A healer's kit, a herbalist kit, a set of protective clothes (designed to avoid contagion, they are waxed or made of leather and often associated with a pair of gloves and a very peculiar mask), a sample associated with a rare illness you intend to study, and a belt pouch containing 10 gp.</li>
+				<li><strong>Equipment:</strong> A healer's kit, a herbalist kit, a set of protective clothes (designed to avoid contagion, they are waxed or made of leather and often associated with a pair of gloves and a very peculiar mask), a sample associated with a rare illness you intend to study, and a bag with pouch containing 10 gp.</li>
 			</ul>
 			<div element="ID_NV_TGHC_BACKGROUND_FEATURE_RESPECTED_HEALER" />
 		</description>
