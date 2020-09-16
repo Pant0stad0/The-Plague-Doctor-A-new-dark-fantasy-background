@@ -1,0 +1,14 @@
+</element>
+	<element name="Mind Blade" type="Magic Item" source="Volo's Guide to Monsters" id="ID_VGTM_MIND_BLADE">
+		<description>
+			<p>Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can bond to it. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.</p>
+		</description>
+		<setters>
+			<set name="keywords">psychic, damage</set>
+			<set name="category">Magic Weapons</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="type" addition="any sword">Weapon</set>
+			<set name="attunement">false</set>
+			<set name="rarity">Rare</set>
+			<set name="weapon">ID_INTERNAL_WEAPON_GROUP_SWORDS</set>
+		</setters>
