@@ -3,9 +3,9 @@
 	<info>
 		<name>Weapons</name>
 		<description></description>
-		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
+		<author url="https://github.com/Pant0stad0/The-Plague-Doctor-A-new-dark-fantasy-background/tree/master">Wizards of the Coast</author>
 		<update version="0.0.7">
-			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide/items/items-weapons.xml" />
+			<file name="mind-blade.xml" url="https://raw.githubusercontent.com/Pant0stad0/The-Plague-Doctor-A-new-dark-fantasy-background/master/mind-blade.xml" />
 		</update>
 	</info>
 	<element name="Mind Blade" type="Magic Item" source="Volo's Guide to Monsters" id="ID_VTGM_MIND_BLADE">
